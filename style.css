@@ -87,15 +87,9 @@ main {
 	grid-column: 1 / 3;
 	background-color: var(--Moderate-violet);
 	background-image: url('../images/bg-pattern-quotation.svg');
-<<<<<<< HEAD
-=======
 	background-size: 15%;
 	background-position: top right 20%;
->>>>>>> ccc8fc8a61d0117877368a24b5557e5eb94e16fa
 	background-repeat: no-repeat;
-	background-size: 15%;
-	background-position: top right 20%;
-
 	color: #fff;
 }
 
